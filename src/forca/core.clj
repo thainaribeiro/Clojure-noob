@@ -44,4 +44,4 @@
 	(jogo total-de-vidas palavra-secreta #{}))
 
 (defn -main [& args]
-  (comeca-o-jogo)) 
+  (comeca-o-jogo))
